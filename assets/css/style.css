@@ -1,0 +1,162 @@
+.card {
+   width: 424px;
+
+   Top: 553px;
+   Left: 749px;
+   border: 2px solid gray;
+   padding-left: 60px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 15px;
+}
+
+.img1 {
+   height: 252px;
+   width: 344px;
+   border-radius: 20px;
+}
+
+h1 {
+   font-family: Poppins;
+   font-size: 25px;
+   font-weight: 600;
+   line-height: 36px;
+
+   width: 301px;
+   height: 36px;
+   top: 308px;
+   left: 43px;
+}
+
+.d-flex {
+   display: flex;
+
+}
+
+.align-item {
+   align-items: center;
+}
+
+.d {
+   display: flex;
+}
+
+.it {
+   align-items: center;
+}
+
+.dd {
+   display: flex;
+}
+
+.ii {
+   align-items: center;
+}
+
+.g {
+   background-color: blue;
+   background-size: 10px;
+   color: white;
+   width: 78px;
+   height: 24px;
+   padding: 11px, 28px, 11px, 28px;
+   border-radius: 23px;
+   gap: 15px;
+   text-align: center;
+}
+
+.card1 {
+   width: 424px;
+
+   Top: 553px;
+   Left: 749px;
+   border: 2px solid gray;
+   padding-left: 60px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 15px;
+}
+
+.img1 {
+   height: 252px;
+   width: 344px;
+   border-radius: 20px;
+}
+
+
+h2 {
+   font-family: Poppins;
+   font-size: 25px;
+   font-weight: 600;
+   line-height: 36px;
+
+   width: 301px;
+   height: 36px;
+   top: 308px;
+   left: 43px;
+}
+
+.h {
+   background-color: blue;
+   background-size: 10px;
+   color: white;
+   width: 78px;
+   height: 24px;
+   padding: 11px, 28px, 11px, 28px;
+   border-radius: 23px;
+   gap: 15px;
+   text-align: center;
+}
+
+h3 {
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left;
+}
+
+h4 {
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+}
+
+h5 {
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+}
+
+p {
+   font-family: poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+}
+
+.a {
+   display: flex;
+}
+
+.s {
+   align-items: center;
+}
+
+.z {
+   display: flex;
+}
+
+.x {
+   align-items: center;
+}
+
+.p {
+   display: flex;
+}
+
+.k {
+   align-items: center;
+}
