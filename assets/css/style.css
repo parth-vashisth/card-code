@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 .card {
    width: 424px;
 
@@ -10,15 +12,9 @@
    border-radius: 15px;
 }
 
-.img1 {
-   height: 252px;
-   width: 344px;
-   border-radius: 20px;
-}
-
 h1 {
    font-family: Poppins;
-   font-size: 25px;
+   font-size: 24px;
    font-weight: 600;
    line-height: 36px;
 
@@ -54,58 +50,28 @@ h1 {
 }
 
 .g {
-   background-color: blue;
+   background: #2C49FE;
    background-size: 10px;
    color: white;
-   width: 78px;
-   height: 24px;
+   width: 134px;
+   height: 46px;
    padding: 11px, 28px, 11px, 28px;
    border-radius: 23px;
    gap: 15px;
-   text-align: center;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   font-family: poppins;
+   font-weight: 600;
 }
 
-.card1 {
-   width: 424px;
 
-   Top: 553px;
-   Left: 749px;
-   border: 2px solid gray;
-   padding-left: 60px;
-   padding-top: 20px;
-   padding-bottom: 20px;
-   border-radius: 15px;
-}
 
 .img1 {
    height: 252px;
    width: 344px;
    border-radius: 20px;
-}
 
-
-h2 {
-   font-family: Poppins;
-   font-size: 25px;
-   font-weight: 600;
-   line-height: 36px;
-
-   width: 301px;
-   height: 36px;
-   top: 308px;
-   left: 43px;
-}
-
-.h {
-   background-color: blue;
-   background-size: 10px;
-   color: white;
-   width: 78px;
-   height: 24px;
-   padding: 11px, 28px, 11px, 28px;
-   border-radius: 23px;
-   gap: 15px;
-   text-align: center;
 }
 
 h3 {
@@ -114,6 +80,7 @@ h3 {
    font-weight: 400;
    line-height: 24px;
    text-align: left;
+   color: gray;
 }
 
 h4 {
@@ -121,6 +88,7 @@ h4 {
    font-size: 16px;
    font-weight: 400;
    line-height: 24px;
+   color: grey;
 }
 
 h5 {
@@ -128,35 +96,10 @@ h5 {
    font-size: 16px;
    font-weight: 400;
    line-height: 24px;
+   color: gray;
 }
-
-p {
-   font-family: poppins;
-   font-size: 16px;
-   font-weight: 400;
-   line-height: 24px;
-}
-
-.a {
+.main{ 
    display: flex;
-}
+   gap: 30px;
 
-.s {
-   align-items: center;
-}
-
-.z {
-   display: flex;
-}
-
-.x {
-   align-items: center;
-}
-
-.p {
-   display: flex;
-}
-
-.k {
-   align-items: center;
 }
